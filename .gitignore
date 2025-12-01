@@ -1,0 +1,12 @@
+# Ignore training data directory
+train_data/
+train_data/**
+
+# Common Python ignores
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+
+ 
