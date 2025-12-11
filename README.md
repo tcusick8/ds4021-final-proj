@@ -9,3 +9,13 @@ This project aims to find which factord are best to predict the location of a cr
 The python version used for the Neural Network, Random Forest, and SVM models is 3.13.1. The python version used for the penalized linear model was **[insert python version here]**. Each model is kept in its own jupyter notebook with the title matching the model configuration. Packages used include pandas, numpy, matplotlib, scikit-learn, and pytorch. All members of the group operated on a Mac operating system. 
 
 ## Documentation Map
+Our repo is mapped out as follows:
+NOTEBOOKS:
+- EDA.ipynb
+- Neural_Network.ipynb
+- RF-final.ipynb
+- NVM.ipynb
+OUTPUT:
+data:
+- Test Sets (this is a link to a Google Drive because the files were too large to store directly in Github)
+README.md
