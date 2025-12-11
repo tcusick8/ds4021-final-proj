@@ -22,6 +22,7 @@ OUTPUT:
 - EDA Visualizations
 - NN Folds
 - RandomForest Output
+- Ridge Actual vs Predicted Visualizations
 
 data:
 - Test Sets (this is a link to a Google Drive because the files were too large to store directly in Github)
