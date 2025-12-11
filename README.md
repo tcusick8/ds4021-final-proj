@@ -20,6 +20,8 @@ NOTEBOOKS:
   
 OUTPUT:
 - EDA Visualizations
+- NN Folds
+- RandomForest Output
 
 data:
 - Test Sets (this is a link to a Google Drive because the files were too large to store directly in Github)
