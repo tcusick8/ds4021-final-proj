@@ -27,4 +27,8 @@ OUTPUT:
 data:
 - Test Sets (this is a link to a Google Drive because the files were too large to store directly in Github)
 
-README.md
+Final Report:
+- Final_Report.pdf (on main)
+
+README.md (on main)
+requirements.txt (on main)
