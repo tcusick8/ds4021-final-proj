@@ -10,12 +10,18 @@ The python version used for the Neural Network, Random Forest, and SVM models is
 
 ## Documentation Map
 Our repo is mapped out as follows:
+
 NOTEBOOKS:
 - EDA.ipynb
 - Neural_Network.ipynb
 - RF-final.ipynb
 - NVM.ipynb
+
+  
 OUTPUT:
+- EDA Visualizations
+
 data:
 - Test Sets (this is a link to a Google Drive because the files were too large to store directly in Github)
+
 README.md
