@@ -6,7 +6,7 @@ This project aims to find which factord are best to predict the location of a cr
 
 ## Software and Platform Selection
 
-The python version used for the Neural Network, Random Forest, and SVM models is 3.13.1. The python version used for the penalized linear model was **[insert python version here]**. Each model is kept in its own jupyter notebook with the title matching the model configuration. Packages used include pandas, numpy, matplotlib, scikit-learn, and pytorch. All members of the group operated on a Mac operating system. 
+The python version used for the Neural Network, Random Forest, and SVM models is 3.13.1. The python version used for the penalized linear model and final test notebook was 3.12.6. Each model is kept in its own jupyter notebook with the title matching the model configuration. Packages used include pandas, numpy, matplotlib, scikit-learn (linear_model, multioutput, preprocessing, pipeline, compose, metrics, model_selection), and pytorch. All members of the group operated on a Mac operating system. 
 
 ## Documentation Map
 Our repo is mapped out as follows:
